@@ -1,0 +1,12 @@
+{
+  "name": "rlc-bitmap",
+  "version": "0.1.0",
+  "description": "run-length-encoded bitmap store",
+  "author": "andrasq",
+  "license": "Apache-2.0",
+  "readme": "see README.md in the repo",
+  "files": [ "rlc-bitmap.js", "README.js" ],
+
+  "scripts": {
+  }
+}
